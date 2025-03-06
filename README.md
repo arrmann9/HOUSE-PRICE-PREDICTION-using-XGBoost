@@ -33,7 +33,7 @@ Target Variable: Price (Median house value in a district)
 * Mean Absolute Error (MAE) shows the average absolute difference between actual and predicted prices. A lower MAE indicates better accuracy.**}**
   
 **Model Performance:**
-
+  
   **Training Accuracy**
 * R² Score: 0.9436 (94.36% variance explained)
 * MAE: 0.1933
