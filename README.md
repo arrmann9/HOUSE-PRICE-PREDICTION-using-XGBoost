@@ -13,7 +13,8 @@ Target Variable: Price (Median house value in a district)
 * Scikit-learn (Train-Test Split, Metrics, Correlation Analysis)
 * Matplotlib, Seaborn (Data Visualization)
 * XGBoost (Extreme Gradient Boosting Regressor)
-**{Why Use XGBoost?**
+
+  **{Why Use XGBoost?**
 * Handles large datasets efficiently and is optimized for speed and performance.
 * Uses boosted decision trees to improve prediction accuracy by reducing errors.
 * Provides feature importance analysis, helping to identify the most influential variables.
