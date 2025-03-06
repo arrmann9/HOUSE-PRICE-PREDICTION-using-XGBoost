@@ -34,11 +34,11 @@ Target Variable: Price (Median house value in a district)
   
 **Model Performance:**
   
-  **Training Accuracy**
+ **Training Accuracy**
 * R² Score: 0.9436 (94.36% variance explained)
 * MAE: 0.1933
   
-  **Testing Accuracy**
+**Testing Accuracy**
 * R² Score: 0.8338 (83.38% variance explained)
 * MAE: 0.3108
   
