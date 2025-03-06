@@ -28,7 +28,7 @@ Target Variable: Price (Median house value in a district)
 * Evaluate the model using R² Score and Mean Absolute Error (MAE).
 * Visualize predictions with scatter plots.
 
-**{Why Evaluate with R² Score & MAE?**
+  **{Why Evaluate with R² Score & MAE?**
 * R² Score measures how well the model explains variance in house prices. A higher R² indicates better performance.
 * Mean Absolute Error (MAE) shows the average absolute difference between actual and predicted prices. A lower MAE indicates better accuracy.**}**
   
