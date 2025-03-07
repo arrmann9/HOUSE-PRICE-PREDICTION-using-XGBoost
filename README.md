@@ -2,7 +2,7 @@
 
 This project implements a House Price Prediction Model using XGBoost Regressor. The model is trained on the California Housing Dataset to predict house prices based on key housing and demographic features.
 
-**Dataset**
+**Dataset:**
 The dataset contains housing-related parameters such as: 
 Median Income, House Age, Average Rooms, Population, Latitude, Longitude, etc.
 Target Variable: Price (Median house value in a district)
